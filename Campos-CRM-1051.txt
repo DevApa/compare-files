@@ -1,0 +1,18 @@
+Nombre del asegurado
+Nombre del beneficiario
+Tipo de seguro
+Producto
+Sub Producto
+Modelo Seguro
+Tipo periodo Tabla
+Estado
+Ramo
+Plan
+Prima neta
+Prima total
+Oficial de venta
+Oficial de seguros
+Observaciones
+Fecha envío Documentos
+Fecha inicio Poliza
+Fecha fin Poliza

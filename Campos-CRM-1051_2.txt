@@ -1,0 +1,26 @@
+Canal	
+Nombre del Cliente	
+Número de Identificación	
+SegmentoEstrategico	
+Fecha de inicio venta	
+Fecha de Fin venta	
+Producto	
+Plan	
+Ramo	
+Número de Transacción BG	
+Prima Total	
+Prima Neta	
+Periodicidad	
+Nombre de Usuario Oferta	
+Usuario Oferta	OPID 
+Oferta	OPID Oficial	
+nombreOficial	
+Oficina Oferta	
+Región Oferta	
+Tipo Medio Pago	
+NumeroMedioPago	
+Estado de Cobro	
+idExpediente	
+Nombre Proveedor	
+Cargo_OPID	
+Certificado
